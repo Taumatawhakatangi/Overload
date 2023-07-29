@@ -425,6 +425,10 @@ textarea:focus {
   align-items: flex-start;
 }
 
+.sale-item__img {
+  max-height: 200px;
+}
+
 .sale-item__info {
   color: #fff;
   text-transform: uppercase;
@@ -1801,6 +1805,7 @@ textarea:focus {
   font-size: 17px;
   line-height: 20px;
   color: rgb(47 48 53 / 70%);
+  cursor: pointer;
 }
 
 .card__list {
